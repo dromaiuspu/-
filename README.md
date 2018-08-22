@@ -1,4 +1,4 @@
-# TouTiao-jiepai-tupianzhaqu-cunchu 
+# jinritoutiao
 今日头条街拍爬取  
 一：实现UA池的建立  
 二：实现ip池的建立  
